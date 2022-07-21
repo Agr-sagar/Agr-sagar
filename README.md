@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Agr-sagar
-- 👀 I’m interested in Cyber Scurity
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Electric Vehicles
+- 🌱 I’m currently learning MATLAB/SIMULINK
+- 💞️ I’m looking to collaborate on My Projects
 - 📫 How to reach me ...
 
 <!---
